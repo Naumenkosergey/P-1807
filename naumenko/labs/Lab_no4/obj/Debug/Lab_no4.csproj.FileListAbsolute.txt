@@ -1,0 +1,6 @@
+C:\Users\misha\source\repos\KPiYAP_labs\Lab_no4\obj\Debug\Lab_no4.csproj.CoreCompileInputs.cache
+C:\Users\misha\source\repos\KPiYAP_labs\Lab_no4\bin\Debug\Lab_no4.exe.config
+C:\Users\misha\source\repos\KPiYAP_labs\Lab_no4\bin\Debug\Lab_no4.exe
+C:\Users\misha\source\repos\KPiYAP_labs\Lab_no4\bin\Debug\Lab_no4.pdb
+C:\Users\misha\source\repos\KPiYAP_labs\Lab_no4\obj\Debug\Lab_no4.exe
+C:\Users\misha\source\repos\KPiYAP_labs\Lab_no4\obj\Debug\Lab_no4.pdb
