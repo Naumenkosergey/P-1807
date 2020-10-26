@@ -1,0 +1,10 @@
+E:\projectsVS\GitHub\KPiYAP_lab-s\Lab_no5\bin\Debug\Lab_no5.exe.config
+E:\projectsVS\GitHub\KPiYAP_lab-s\Lab_no5\bin\Debug\Lab_no5.exe
+E:\projectsVS\GitHub\KPiYAP_lab-s\Lab_no5\bin\Debug\Lab_no5.pdb
+E:\projectsVS\GitHub\KPiYAP_lab-s\Lab_no5\obj\Debug\Lab_no5.csprojAssemblyReference.cache
+E:\projectsVS\GitHub\KPiYAP_lab-s\Lab_no5\obj\Debug\Lab_no5.csproj.CoreCompileInputs.cache
+E:\projectsVS\GitHub\KPiYAP_lab-s\Lab_no5\obj\Debug\Lab_no5.exe
+E:\projectsVS\GitHub\KPiYAP_lab-s\Lab_no5\obj\Debug\Lab_no5.pdb
+E:\projectsVS\GitHub\KPiYAP_lab-s\Lab_no5\bin\Debug\Newtonsoft.Json.dll
+E:\projectsVS\GitHub\KPiYAP_lab-s\Lab_no5\bin\Debug\Newtonsoft.Json.xml
+E:\projectsVS\GitHub\KPiYAP_lab-s\Lab_no5\obj\Debug\Lab_no5.csproj.CopyComplete
