@@ -1,0 +1,7 @@
+C:\Users\misha\Documents\GitHub\KPiYAP_lab-s\Labe_no8\bin\Debug\Labe_no8.exe.config
+C:\Users\misha\Documents\GitHub\KPiYAP_lab-s\Labe_no8\bin\Debug\Labe_no8.exe
+C:\Users\misha\Documents\GitHub\KPiYAP_lab-s\Labe_no8\bin\Debug\Labe_no8.pdb
+C:\Users\misha\Documents\GitHub\KPiYAP_lab-s\Labe_no8\obj\Debug\Labe_no8.csprojAssemblyReference.cache
+C:\Users\misha\Documents\GitHub\KPiYAP_lab-s\Labe_no8\obj\Debug\Labe_no8.csproj.CoreCompileInputs.cache
+C:\Users\misha\Documents\GitHub\KPiYAP_lab-s\Labe_no8\obj\Debug\Labe_no8.exe
+C:\Users\misha\Documents\GitHub\KPiYAP_lab-s\Labe_no8\obj\Debug\Labe_no8.pdb
