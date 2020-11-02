@@ -1,0 +1,7 @@
+E:\projectsVS\GitHub\KPiYAP_lab-s\Labe_no9\bin\Debug\Labe_no9.exe.config
+E:\projectsVS\GitHub\KPiYAP_lab-s\Labe_no9\bin\Debug\Labe_no9.exe
+E:\projectsVS\GitHub\KPiYAP_lab-s\Labe_no9\bin\Debug\Labe_no9.pdb
+E:\projectsVS\GitHub\KPiYAP_lab-s\Labe_no9\obj\Debug\Labe_no9.csprojAssemblyReference.cache
+E:\projectsVS\GitHub\KPiYAP_lab-s\Labe_no9\obj\Debug\Labe_no9.csproj.CoreCompileInputs.cache
+E:\projectsVS\GitHub\KPiYAP_lab-s\Labe_no9\obj\Debug\Labe_no9.exe
+E:\projectsVS\GitHub\KPiYAP_lab-s\Labe_no9\obj\Debug\Labe_no9.pdb
