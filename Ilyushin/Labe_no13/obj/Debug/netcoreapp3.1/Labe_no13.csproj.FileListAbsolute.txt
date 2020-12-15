@@ -1,0 +1,13 @@
+C:\Users\misha\Documents\GitHub\KPiYAP_lab-s\Labe_no13\bin\Debug\netcoreapp3.1\Labe_no13.exe
+C:\Users\misha\Documents\GitHub\KPiYAP_lab-s\Labe_no13\bin\Debug\netcoreapp3.1\Labe_no13.deps.json
+C:\Users\misha\Documents\GitHub\KPiYAP_lab-s\Labe_no13\bin\Debug\netcoreapp3.1\Labe_no13.runtimeconfig.json
+C:\Users\misha\Documents\GitHub\KPiYAP_lab-s\Labe_no13\bin\Debug\netcoreapp3.1\Labe_no13.runtimeconfig.dev.json
+C:\Users\misha\Documents\GitHub\KPiYAP_lab-s\Labe_no13\bin\Debug\netcoreapp3.1\Labe_no13.dll
+C:\Users\misha\Documents\GitHub\KPiYAP_lab-s\Labe_no13\bin\Debug\netcoreapp3.1\Labe_no13.pdb
+C:\Users\misha\Documents\GitHub\KPiYAP_lab-s\Labe_no13\obj\Debug\netcoreapp3.1\Labe_no13.csprojAssemblyReference.cache
+C:\Users\misha\Documents\GitHub\KPiYAP_lab-s\Labe_no13\obj\Debug\netcoreapp3.1\Labe_no13.AssemblyInfoInputs.cache
+C:\Users\misha\Documents\GitHub\KPiYAP_lab-s\Labe_no13\obj\Debug\netcoreapp3.1\Labe_no13.AssemblyInfo.cs
+C:\Users\misha\Documents\GitHub\KPiYAP_lab-s\Labe_no13\obj\Debug\netcoreapp3.1\Labe_no13.csproj.CoreCompileInputs.cache
+C:\Users\misha\Documents\GitHub\KPiYAP_lab-s\Labe_no13\obj\Debug\netcoreapp3.1\Labe_no13.dll
+C:\Users\misha\Documents\GitHub\KPiYAP_lab-s\Labe_no13\obj\Debug\netcoreapp3.1\Labe_no13.pdb
+C:\Users\misha\Documents\GitHub\KPiYAP_lab-s\Labe_no13\obj\Debug\netcoreapp3.1\Labe_no13.genruntimeconfig.cache
