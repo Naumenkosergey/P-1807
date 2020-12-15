@@ -1,0 +1,7 @@
+C:\Users\misha\Documents\GitHub\KPiYAP_lab-s\Labe_no11\bin\Debug\Labe_no11.exe.config
+C:\Users\misha\Documents\GitHub\KPiYAP_lab-s\Labe_no11\bin\Debug\Labe_no11.exe
+C:\Users\misha\Documents\GitHub\KPiYAP_lab-s\Labe_no11\bin\Debug\Labe_no11.pdb
+C:\Users\misha\Documents\GitHub\KPiYAP_lab-s\Labe_no11\obj\Debug\Labe_no11.csprojAssemblyReference.cache
+C:\Users\misha\Documents\GitHub\KPiYAP_lab-s\Labe_no11\obj\Debug\Labe_no11.csproj.CoreCompileInputs.cache
+C:\Users\misha\Documents\GitHub\KPiYAP_lab-s\Labe_no11\obj\Debug\Labe_no11.exe
+C:\Users\misha\Documents\GitHub\KPiYAP_lab-s\Labe_no11\obj\Debug\Labe_no11.pdb
