@@ -1,0 +1,16 @@
+C:\Users\misha\Documents\GitHub\KPiYAP_lab-s\Lab_no15\bin\Debug\netcoreapp3.1\input1.txt
+C:\Users\misha\Documents\GitHub\KPiYAP_lab-s\Lab_no15\bin\Debug\netcoreapp3.1\output1.txt
+C:\Users\misha\Documents\GitHub\KPiYAP_lab-s\Lab_no15\bin\Debug\netcoreapp3.1\Lab_no15.exe
+C:\Users\misha\Documents\GitHub\KPiYAP_lab-s\Lab_no15\bin\Debug\netcoreapp3.1\Lab_no15.deps.json
+C:\Users\misha\Documents\GitHub\KPiYAP_lab-s\Lab_no15\bin\Debug\netcoreapp3.1\Lab_no15.runtimeconfig.json
+C:\Users\misha\Documents\GitHub\KPiYAP_lab-s\Lab_no15\bin\Debug\netcoreapp3.1\Lab_no15.runtimeconfig.dev.json
+C:\Users\misha\Documents\GitHub\KPiYAP_lab-s\Lab_no15\bin\Debug\netcoreapp3.1\Lab_no15.dll
+C:\Users\misha\Documents\GitHub\KPiYAP_lab-s\Lab_no15\bin\Debug\netcoreapp3.1\Lab_no15.pdb
+C:\Users\misha\Documents\GitHub\KPiYAP_lab-s\Lab_no15\obj\Debug\netcoreapp3.1\Lab_no15.csprojAssemblyReference.cache
+C:\Users\misha\Documents\GitHub\KPiYAP_lab-s\Lab_no15\obj\Debug\netcoreapp3.1\Lab_no15.AssemblyInfoInputs.cache
+C:\Users\misha\Documents\GitHub\KPiYAP_lab-s\Lab_no15\obj\Debug\netcoreapp3.1\Lab_no15.AssemblyInfo.cs
+C:\Users\misha\Documents\GitHub\KPiYAP_lab-s\Lab_no15\obj\Debug\netcoreapp3.1\Lab_no15.csproj.CoreCompileInputs.cache
+C:\Users\misha\Documents\GitHub\KPiYAP_lab-s\Lab_no15\obj\Debug\netcoreapp3.1\Lab_no15.dll
+C:\Users\misha\Documents\GitHub\KPiYAP_lab-s\Lab_no15\obj\Debug\netcoreapp3.1\Lab_no15.pdb
+C:\Users\misha\Documents\GitHub\KPiYAP_lab-s\Lab_no15\obj\Debug\netcoreapp3.1\Lab_no15.genruntimeconfig.cache
+C:\Users\misha\Documents\GitHub\KPiYAP_lab-s\Lab_no15\bin\Debug\netcoreapp3.1\input2.txt

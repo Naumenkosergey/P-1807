@@ -1,0 +1,29 @@
+[
+    {
+        "Address": {
+            "Number": 12,
+            "Room": 33,
+            "Street": "Staraya"
+        },
+        "Age": 30,
+        "Name": "Beb"
+    },
+    {
+        "Address": {
+            "Number": 33,
+            "Room": 12,
+            "Street": "Jimbo"
+        },
+        "Age": 90,
+        "Name": "Atras"
+    },
+    {
+        "Address": {
+            "Number": 13,
+            "Room": 1,
+            "Street": "Polskaya"
+        },
+        "Age": 48,
+        "Name": "Golden"
+    }
+]
