@@ -1,0 +1,14 @@
+E:\projectsVS\GitHub\KPiYAP_lab-s\Lab_no18\bin\Debug\netcoreapp3.1\governments.xml
+E:\projectsVS\GitHub\KPiYAP_lab-s\Lab_no18\bin\Debug\netcoreapp3.1\Lab_no18.exe
+E:\projectsVS\GitHub\KPiYAP_lab-s\Lab_no18\bin\Debug\netcoreapp3.1\Lab_no18.deps.json
+E:\projectsVS\GitHub\KPiYAP_lab-s\Lab_no18\bin\Debug\netcoreapp3.1\Lab_no18.runtimeconfig.json
+E:\projectsVS\GitHub\KPiYAP_lab-s\Lab_no18\bin\Debug\netcoreapp3.1\Lab_no18.runtimeconfig.dev.json
+E:\projectsVS\GitHub\KPiYAP_lab-s\Lab_no18\bin\Debug\netcoreapp3.1\Lab_no18.dll
+E:\projectsVS\GitHub\KPiYAP_lab-s\Lab_no18\bin\Debug\netcoreapp3.1\Lab_no18.pdb
+E:\projectsVS\GitHub\KPiYAP_lab-s\Lab_no18\obj\Debug\netcoreapp3.1\Lab_no18.csprojAssemblyReference.cache
+E:\projectsVS\GitHub\KPiYAP_lab-s\Lab_no18\obj\Debug\netcoreapp3.1\Lab_no18.AssemblyInfoInputs.cache
+E:\projectsVS\GitHub\KPiYAP_lab-s\Lab_no18\obj\Debug\netcoreapp3.1\Lab_no18.AssemblyInfo.cs
+E:\projectsVS\GitHub\KPiYAP_lab-s\Lab_no18\obj\Debug\netcoreapp3.1\Lab_no18.csproj.CoreCompileInputs.cache
+E:\projectsVS\GitHub\KPiYAP_lab-s\Lab_no18\obj\Debug\netcoreapp3.1\Lab_no18.dll
+E:\projectsVS\GitHub\KPiYAP_lab-s\Lab_no18\obj\Debug\netcoreapp3.1\Lab_no18.pdb
+E:\projectsVS\GitHub\KPiYAP_lab-s\Lab_no18\obj\Debug\netcoreapp3.1\Lab_no18.genruntimeconfig.cache
