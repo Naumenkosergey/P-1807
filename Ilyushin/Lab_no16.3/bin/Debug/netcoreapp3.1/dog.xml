@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dogs>
+  <dog>
+    <Name>Арнольд</Name>
+    <Breed>Брохольмер</Breed>
+    <Age>11</Age>
+    <HouseType>Для дома</HouseType>
+    <MasterName>Алена</MasterName>
+  </dog>
+  <dog>
+    <Name>Альт</Name>
+    <Breed>Блю-лейси</Breed>
+    <Age>7</Age>
+    <HouseType>Для дома</HouseType>
+    <MasterName>Адонис</MasterName>
+  </dog>
+  <dog>
+    <Name>Арахис</Name>
+    <Breed>Бурят-монгольский волкодав</Breed>
+    <Age>6</Age>
+    <HouseType>Для улицы</HouseType>
+    <MasterName>Альберт</MasterName>
+  </dog>
+  <dog>
+    <Name>Ангел</Name>
+    <Breed>Бордоский дог</Breed>
+    <Age>5</Age>
+    <HouseType>Для квартиры</HouseType>
+    <MasterName>Антонина</MasterName>
+  </dog>
+  <dog>
+    <Name>Арамис</Name>
+    <Breed>Болгарский барак</Breed>
+    <Age>4</Age>
+    <HouseType>Бездомная</HouseType>
+    <MasterName>Александра</MasterName>
+  </dog>
+  <dog>
+    <Name>Аксель</Name>
+    <Breed>Бриар</Breed>
+    <Age>0</Age>
+    <HouseType>Для квартиры</HouseType>
+    <MasterName>Антон</MasterName>
+  </dog>
+  <dog>
+    <Name>Арес</Name>
+    <Breed>Болоньез</Breed>
+    <Age>9</Age>
+    <HouseType>Для квартиры</HouseType>
+    <MasterName>Арсений</MasterName>
+  </dog>
+  <dog>
+    <Name>Аксель</Name>
+    <Breed>Блю-лейси</Breed>
+    <Age>1</Age>
+    <HouseType>Для улицы</HouseType>
+    <MasterName>Алексей</MasterName>
+  </dog>
+  <dog>
+    <Name>Алтaй</Name>
+    <Breed>Бульдог кампейро</Breed>
+    <Age>0</Age>
+    <HouseType>Для дома</HouseType>
+    <MasterName>Авраам</MasterName>
+  </dog>
+  <dog>
+    <Name>Айран</Name>
+    <Breed>Бульдог Катахулы</Breed>
+    <Age>5</Age>
+    <HouseType>Бездомная</HouseType>
+    <MasterName>Алексей</MasterName>
+  </dog>
+  <dog>
+    <Name>Артос</Name>
+    <Breed>Блю-лейси</Breed>
+    <Age>6</Age>
+    <HouseType>Бездомная</HouseType>
+    <MasterName>Анастасий</MasterName>
+  </dog>
+</dogs>
