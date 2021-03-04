@@ -1,0 +1,12 @@
+E:\projectsVS\GitHub\KPiYAP_lab-s\Lab_no20\bin\Debug\netcoreapp3.1\Lab_no20.exe
+E:\projectsVS\GitHub\KPiYAP_lab-s\Lab_no20\bin\Debug\netcoreapp3.1\Lab_no20.deps.json
+E:\projectsVS\GitHub\KPiYAP_lab-s\Lab_no20\bin\Debug\netcoreapp3.1\Lab_no20.runtimeconfig.json
+E:\projectsVS\GitHub\KPiYAP_lab-s\Lab_no20\bin\Debug\netcoreapp3.1\Lab_no20.runtimeconfig.dev.json
+E:\projectsVS\GitHub\KPiYAP_lab-s\Lab_no20\bin\Debug\netcoreapp3.1\Lab_no20.dll
+E:\projectsVS\GitHub\KPiYAP_lab-s\Lab_no20\bin\Debug\netcoreapp3.1\Lab_no20.pdb
+E:\projectsVS\GitHub\KPiYAP_lab-s\Lab_no20\obj\Debug\netcoreapp3.1\Lab_no20.AssemblyInfoInputs.cache
+E:\projectsVS\GitHub\KPiYAP_lab-s\Lab_no20\obj\Debug\netcoreapp3.1\Lab_no20.AssemblyInfo.cs
+E:\projectsVS\GitHub\KPiYAP_lab-s\Lab_no20\obj\Debug\netcoreapp3.1\Lab_no20.csproj.CoreCompileInputs.cache
+E:\projectsVS\GitHub\KPiYAP_lab-s\Lab_no20\obj\Debug\netcoreapp3.1\Lab_no20.dll
+E:\projectsVS\GitHub\KPiYAP_lab-s\Lab_no20\obj\Debug\netcoreapp3.1\Lab_no20.pdb
+E:\projectsVS\GitHub\KPiYAP_lab-s\Lab_no20\obj\Debug\netcoreapp3.1\Lab_no20.genruntimeconfig.cache
